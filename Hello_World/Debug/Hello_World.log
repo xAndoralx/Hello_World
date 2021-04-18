@@ -1,0 +1,3 @@
+﻿  Hello_World.cpp
+C:\Users\Student\Desktop\Hello_World\Hello_World\Hello_World.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Hello_World.vcxproj -> C:\Users\Student\Desktop\Hello_World\Debug\Hello_World.exe

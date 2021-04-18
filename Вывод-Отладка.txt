@@ -1,0 +1,19 @@
+﻿"Hello_World.exe" (Win32). Загружено "C:\Users\Student\Desktop\Hello_World\Debug\Hello_World.exe". Символы загружены.
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0xbfc завершился с кодом 0 (0x0).
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"Hello_World.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0xea8 завершился с кодом 0 (0x0).
+Поток 0x928 завершился с кодом 0 (0x0).
+Поток 0xb00 завершился с кодом 0 (0x0).
+Программа "[13636] Hello_World.exe" завершилась с кодом 0 (0x0).
